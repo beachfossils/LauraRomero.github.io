@@ -12,7 +12,9 @@ Resumen : Este juego se trata de un ser el cual busca su identidad, de manera qu
 
 Estilo/género: Juego
 
-Logotipo : 
+Logotipo :  https://github.com/beachfossils/LauraRomero.github.io/blob/main/logo/portada.jpg
+
+![Payaso iluminado por una estrella la cual esta abrazando que brilla en muchos colores](https://github.com/beachfossils/LauraRomero.github.io/blob/main/logo/portada.jpg)
 
 Resolución: 600x400
 
@@ -30,11 +32,11 @@ Tiktok: beach_fossilss
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En la primera imágen se puede ver la portada del juego con las diferentes opciones; la primera es jugar, la segunda los controles los cuales llevan a la explicación de que teclas se usan, seguidamente los ajustes los cuales llevan a un desplegables de canciones y una barra que modifica el volúmen de estas y finalmente la opción de imágenes la cual llevan a un carrusel de imágenes de los personajes.
+
 
 ### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
+![Imágen que describe las diferentes escenas del juego (ajustes, diferentes opciones en los ajustes etc...](https://github.com/beachfossils/LauraRomero.github.io/blob/main/logo/Captura%20de%20pantalla_28-5-2025_134435_.jpeg)
 ## 3. Metodología
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
