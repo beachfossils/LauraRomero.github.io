@@ -36,7 +36,7 @@ En la primera imágen se puede ver la portada del juego con las diferentes opcio
 
 
 ### 2.2. Esquema de navegación
-![Imágen que describe las diferentes escenas del juego (ajustes, diferentes opciones en los ajustes etc...](https://github.com/beachfossils/LauraRomero.github.io/blob/main/logo/Captura%20de%20pantalla_28-5-2025_134435_.jpeg)
+![Imágen que describe las diferentes escenas del juego (ajustes, diferentes opciones en los ajustes etc...](https://github.com/beachfossils/LauraRomero.github.io/blob/main/logo/Ilustracio%CC%81n_sin_ti%CC%81tulo%20(1).JPG)
 ## 3. Metodología
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
@@ -58,11 +58,10 @@ Considero que al pulsar la tecla E la cual muestra una imágen del personaje gir
 A pesar de que se podrían mejorar muchas cosas, el hacer este proyecto ha sido un reto, pero el resultado final vale la pena. Con este proyecto, me gustaría en un futur desarrollarlo con más escenas incluso terminarlo y poder llegar a publicarlo entero.
 
 ## 5 Referencias
+Como referencia o inspiración he usado diferentes videojuegos como Undertale o Deltarune.
 
 
 **Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
+https://creativecommons.org/licenses/by/4.0/
 
 Mayo 2025
